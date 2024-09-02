@@ -1,0 +1,15 @@
+No linux, os arquivos .sh, ou seja, shell script são equivalentes ao 
+.bat ou cmd do windows.
+
+executar arquivos .sh, ou seja, shell script
+
+dar permissão digite
+sudo chmod + x nome_do_arquivo.sh
+
+se no arquivo .sh tiver o caminho do bash #!/bin/bash
+
+digite para executar
+./ nome_do_arquivo.sh
+
+senão
+digite bash nome_do_arquivo.sh
